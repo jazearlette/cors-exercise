@@ -4,8 +4,8 @@ _This is a sample CORS project demonstrated in class_
 
 ## Installation
 
-- `git clone `
-- `cd cors-exercise`
+- `git clone https://github.com/7AdvancedAcademy/cors-exercise-jan-2022.git`
+- `cd cors-exercise-jan-2022`
 - `cp .env.example .env`
 - `npm install`
 - `npm run dev`
