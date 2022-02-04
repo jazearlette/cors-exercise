@@ -11,7 +11,7 @@ import { onMounted, reactive } from 'vue';
 
 const apiClient = axios.create({ baseURL: "http://localhost:8082" });
 
-const students = apiClient.get("/api/students");
+const students = apiClient.get("/api/students")
 
 export default {
   name: 'App',
